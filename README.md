@@ -6,7 +6,5 @@
 - 💬 Ask me about android, software architecture, testing, golang
 - 📫 How to reach me: [📧 adityasutar99999@gmail.com](mailto:adityasutar99999@gmail.com) | [🐦 AdityasutarOO7](https://twitter.com/AdityasutarOO7)
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Aditya-OO7&count_private=true&show_icons=true&include_all_commits=true&theme=nord" alt="Aditya-OO7 | Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aditya_OO7&layout=compact&theme=nord" alt="MrWhoKnows' Wakatime Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-OO7&count_private=true&show_icons=true&include_all_commits=true&theme=nord" alt="Aditya-OO7 | Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Aditya_OO7&layout=compact&theme=nord" alt="MrWhoKnows' Wakatime Stats" />
