@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on android, backend, cloud related projects
 - 💬 Ask me about android, software architecture, testing, golang
 - 📫 How to reach me:<br/>
- [![Gmail](https://img.shields.io/badge/adityasutar99999-grey?style=for-the-badge&logo=gmail)](mailto:adityasutar99999@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/Aditya_Sutar-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-sutar-5aa49a175)
  [![LinkedIn](https://img.shields.io/badge/AdityasutarOO7-grey?style=for-the-badge&logo=twitter)](https://twitter.com/AdityasutarOO7)
 
