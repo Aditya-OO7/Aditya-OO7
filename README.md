@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Aditya
-- 🔭 I’m currently working on backend development with golang
+- 🔭 I’m currently working on devOps and backend development.
 - 🌱 I’m currently learning cloud technology ☁️
 - ⚙️ I got skills around android development, software architecture, testing.
-- 👯 I’m looking to collaborate on android, backend, cloud related projects
-- 💬 Ask me about android, software architecture, testing, golang
+- 👯 I’m looking to collaborate on android, backend, cloud related projects.
+- 💬 Ask me about android, software architecture, testing, backend.
 - 📫 How to reach me:<br/>
  [![LinkedIn](https://img.shields.io/badge/Aditya_Sutar-grey?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-sutar-5aa49a175)
  [![LinkedIn](https://img.shields.io/badge/AdityasutarOO7-grey?style=for-the-badge&logo=twitter)](https://twitter.com/AdityasutarOO7)
